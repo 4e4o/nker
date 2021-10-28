@@ -1,0 +1,7 @@
+/boards/
+/config/
+/image/
+/romfs/
+/target/
+/tmpfs/
+/toolchain/
