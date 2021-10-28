@@ -54,6 +54,7 @@
 #define yydebug zconfdebug
 #define yynerrs zconfnerrs
 
+extern struct kconf_id * kconf_id_lookup (register const char *str, register unsigned int len);
 
 /* Tokens.  */
 #ifndef YYTOKENTYPE
