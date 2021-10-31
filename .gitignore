@@ -1,4 +1,5 @@
 /boards/
+!/boards/rtl819xD/tools/mkimg
 /config/
 /image/
 /romfs/
